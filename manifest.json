@@ -1,0 +1,27 @@
+{
+  "name": "ثبت فروش - مرکز واکسیناسیون دکتر آخرتی",
+  "short_name": "ثبت فروش",
+  "description": "ثبت روزانه فروش، مدیریت انبار و بدهی، گزارش‌ها و صدور رسید - مرکز واکسیناسیون دامپزشکی دکتر آخرتی",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f4",
+  "theme_color": "#0e7490",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
